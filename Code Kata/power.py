@@ -1,3 +1,3 @@
 n=int(input())
-s=int(input())
-print(n**s)
+a=int(input())
+print(n**a)
