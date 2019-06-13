@@ -5,7 +5,7 @@ for n in range(a+1,b):
      if (n%i==0):
        break
    else:
-       print(n)
+       print(n,end=' ')
  else:
-   print(n)    
+   print(n,end=' ')    
  
