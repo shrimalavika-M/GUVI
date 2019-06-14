@@ -1,4 +1,4 @@
- a=int(input())
+a=int(input())
 first=1
 second=1
 next=0
