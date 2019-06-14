@@ -1,5 +1,5 @@
-x,y=map(int,input().split())
-x=x+y
-y=x-y
-x=x-y
-print(x,y)
+s,t=map(int,input().split())
+s=s+t
+t=s-t
+s=s-t
+print(s,t)
