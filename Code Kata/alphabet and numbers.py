@@ -7,6 +7,6 @@ for i in s:
   if(i.isalpha()):
     alpha=1
 if(digit and alpha):
-    print("yes")
+    print("Yes")
 else:
-    print("no")
+    print("No")
