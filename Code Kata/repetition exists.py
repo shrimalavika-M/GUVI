@@ -1,9 +1,7 @@
 n,k=map(int,input().split())
 a=list(map(int,input().split()))
-count=0
-for i in a:
-  if(i==k):
+if k in a:
    print("yes")
-  else:
+else:
     print("no")
-    break
+  
