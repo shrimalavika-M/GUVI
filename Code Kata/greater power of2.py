@@ -1,3 +1,3 @@
-s=int(input())
-c=s*2
+t=int(input())
+c=t*2
 print(c)
